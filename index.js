@@ -19,20 +19,6 @@ return arr.filter(num =>{
 
 EvenNum([6,5,4,3,8,9,11,17])
 
-// function getHighScores (students){
-// return students
-// students.filter (student => students.score >75)
-// students.map(student => student.name);
-// }
-
-// let students=[
-// {name: "Manu", score:77}, {name:"Collins", score:60},
-
-// ];
-
-// const highScores = getHighScores(students);
-// console.log(highScores)
-
 
 function getHighScorers(students) {
     return students
